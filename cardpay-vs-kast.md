@@ -134,3 +134,8 @@ The stablecoin payment revolution in Africa isn't coming. It's here. And now, fi
 *This article was written for the Cardano Bounties program. For more information about CardsPay, visit [cardpay.net](https://cardpay.net). For more information about KAST, visit [kast.xyz](https://kast.xyz).*
 
 *Views expressed are the author's own and do not constitute financial advice. Cryptocurrency investments carry risk. Always do your own research.*
+
+---
+
+Billy Hamathi
+hamathib@gmail.com
