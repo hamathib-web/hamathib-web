@@ -12,13 +12,13 @@ I'm a senior engineer and technical leader with 25+ years of experience spanning
 
 **Core Stack:**
 - **Blockchain (EVM):** Solidity, Hardhat, Foundry, Web3.js, ethers.js, Polygon, Ethereum
-- **Blockchain (Cardano):** Aiken, Plutus V2, Cardano Node Operations, Ogmios/Danse
+- **Blockchain (Cardano):** Aiken, Plutus V2 / V3, Cardano Node Operations, Ogmios, Kupo
 - **Backend:** Golang, Java (Web3 bots, automation), Node.js, Python, Microservices
 - **Frontend:** React, Next.js, TypeScript
-- **Databases:** PostgreSQL, MongoDB, Oracle
-- **Infra:** AWS, Docker, Kubernetes, Terraform, Linux, Self-hosted Cardano Node
+- **Databases:** PostgreSQL, MSSQL, Oracle
+- **Infra:** AWS, Docker, Kubernetes, Linux, Self-hosted Cardano Node
 - **AI/Dev Tools:** OpenCode (agentic AI), GitHub Copilot
-- **Methodologies:** Agile/Scrum (CSM), PRINCE2, ITIL, SAFe
+- **Methodologies:** Agile/Scrum (CSM), PRINCE2, ITIL, SAFe, Kanban
 
 ---
 
@@ -49,8 +49,8 @@ Enterprise fintech utilities — KYC/AML data validation, payment processing tem
 | Role | Company | Focus |
 |------|---------|-------|
 | Lead Web3 Architect | Pre-seed Startup | DeFi, Solidity, Cross-chain, Arbitrage |
-| Cardano Blockchain Engineer | Independent | Aiken, Plutus V2, Node Ops, Quant Analysis |
-| Principal Consultant | iOCO / EOH | Cloud, DevOps, Enterprise Architecture |
+| Cardano Blockchain Engineer | Independent | Aiken, Plutus V2 / V3, Node Ops, Quant Analysis |
+| Consultant | iOCO / EOH | Master Data Management |
 | Scrum Master / Tech Lead | RedM Professional | Delivery, Agile Coaching |
 | Scrum Master / System Engineer | Absa Bank (9 years) | FinCrime, SARB Compliance, AML/KYC |
 
